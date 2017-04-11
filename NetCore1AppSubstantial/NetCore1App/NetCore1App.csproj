@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NetFramework461Lib\NetFramework461Lib.csproj" />
+    <ProjectReference Include="..\NetFramework461LibSubstantial\NetFramework461LibSubstantial.csproj" />
   </ItemGroup>
 
 </Project>

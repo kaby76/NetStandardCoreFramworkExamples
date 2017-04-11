@@ -7,8 +7,8 @@
     <ProjectGuid>{E758CF38-1F53-49BC-99FC-1A886FB56DA5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NetFramework461Lib</RootNamespace>
-    <AssemblyName>NetFramework461Lib</AssemblyName>
+    <RootNamespace>NetFramework461LibSubstantial</RootNamespace>
+    <AssemblyName>NetFramework461LibSubstantial</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />

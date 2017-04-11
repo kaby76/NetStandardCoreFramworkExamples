@@ -6,7 +6,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NetFramework461Lib\NetFramework461Lib.csproj" />
+    <ProjectReference Include="..\NetCore1Lib\NetCore1Lib.csproj" />
+    <ProjectReference Include="..\NetStandard14Lib\NetStandard14Lib.csproj" />
   </ItemGroup>
 
 </Project>

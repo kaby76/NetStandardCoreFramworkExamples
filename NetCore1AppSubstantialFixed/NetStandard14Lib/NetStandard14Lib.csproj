@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.4;net461</TargetFrameworks>
+    <AssemblyName>NetStandard14Lib</AssemblyName>
+    <RootNamespace>NetStandard14Lib</RootNamespace>
+  </PropertyGroup>
+
+</Project>
