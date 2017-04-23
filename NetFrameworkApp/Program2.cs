@@ -11,7 +11,7 @@ namespace NetFrameworkApp
 
             {
                 // Currently not possible.
-                var c = new NetStandardLib.Class1();
+                //var c = new NetStandardLib.Class1();
                 //var r = c.Fun1();
             }
 
