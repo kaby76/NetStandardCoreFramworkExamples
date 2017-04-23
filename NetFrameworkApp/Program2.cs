@@ -10,9 +10,8 @@ namespace NetFrameworkApp
             System.Console.WriteLine(Environment.Version);
 
             {
-                // Currently not possible.
-                //var c = new NetStandardLib.Class1();
-                //var r = c.Fun1();
+                var c = new NetStandardLib.Class1();
+                var r = c.Fun1();
             }
 
             {
