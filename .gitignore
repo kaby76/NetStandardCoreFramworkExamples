@@ -25,3 +25,9 @@ NetFrameworkApp/obj/
 NetFrameworkLib/obj/
 NetStandardLib/obj/
 NetCoreLib/obj/
+NetCoreApp/bin/
+NetFrameworkApp/bin/
+NetStandardLib/bin/
+NetStandardCore/bin/
+NetStandardFramework/bin/
+NetCoreLib/bin/

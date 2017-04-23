@@ -1,14 +1,17 @@
-﻿namespace NetFramework461App
+﻿using System;
+
+namespace NetFrameworkApp
 {
     class Program2
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World from NetFramework461App!");
+            System.Console.WriteLine("Hello World from NetFrameworkApp!");
+            System.Console.WriteLine(Environment.Version);
 
             {
                 // Currently not possible.
-                //var c = new NetStandardLib.Class1();
+                var c = new NetStandardLib.Class1();
                 //var r = c.Fun1();
             }
 
