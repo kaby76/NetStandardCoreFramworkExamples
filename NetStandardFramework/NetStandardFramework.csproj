@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard1.6;net462</TargetFrameworks>
+    <AssemblyName>NetStandardFramework</AssemblyName>
+    <RootNamespace>NetStandardFramework</RootNamespace>
+  </PropertyGroup>
+
+</Project>

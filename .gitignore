@@ -17,3 +17,11 @@ NetCore1AppSubstantialFixed/NetFramework461App/obj/
 NetCore1AppSubstantialFixed/NetFramework461LibSubstantial/obj/
 NetCore1AppSubstantialFixed/NetStandard14Lib/bin/
 NetCore1AppSubstantialFixed/NetStandard14Lib/obj/
+NetCore1AppSubstantialFixed/NetStandardCore/bin/
+NetCoreApp/obj/
+NetStandardCore/obj/
+NetStandardFramework/obj/
+NetFrameworkApp/obj/
+NetFrameworkLib/obj/
+NetStandardLib/obj/
+NetCoreLib/obj/

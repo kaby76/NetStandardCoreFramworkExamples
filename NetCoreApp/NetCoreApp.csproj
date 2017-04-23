@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NetCoreLib\NetCoreLib.csproj" />
+    <ProjectReference Include="..\NetFrameworkLib\NetFrameworkLib.csproj" />
+    <ProjectReference Include="..\NetStandardCore\NetStandardCore.csproj" />
+    <ProjectReference Include="..\NetStandardFramework\NetStandardFramework.csproj" />
+    <ProjectReference Include="..\NetStandardLib\NetStandardLib.csproj" />
+  </ItemGroup>
+
+</Project>

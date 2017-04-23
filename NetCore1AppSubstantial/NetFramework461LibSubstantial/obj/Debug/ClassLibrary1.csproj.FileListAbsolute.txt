@@ -1,5 +1,0 @@
-c:\users\ken\documents\visual studio 2017\Projects\ConsoleApp6\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-c:\users\ken\documents\visual studio 2017\Projects\ConsoleApp6\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-c:\users\ken\documents\visual studio 2017\Projects\ConsoleApp6\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-c:\users\ken\documents\visual studio 2017\Projects\ConsoleApp6\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
-C:\Users\Ken\documents\visual studio 2017\Projects\ConsoleApp6\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
