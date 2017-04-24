@@ -62,6 +62,10 @@
       <Project>{e758cf38-1f53-49bc-99fc-1a886fb56da5}</Project>
       <Name>NetFrameworkLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\NetStandardCore\NetStandardCore.csproj">
+      <Project>{f5fcc89a-efdf-475b-af8c-9cbfe72bd3fd}</Project>
+      <Name>NetStandardCore</Name>
+    </ProjectReference>
     <ProjectReference Include="..\NetStandardFramework\NetStandardFramework.csproj">
       <Project>{1e618625-b23e-4952-8aa4-2a2d0a34f9a8}</Project>
       <Name>NetStandardFramework</Name>

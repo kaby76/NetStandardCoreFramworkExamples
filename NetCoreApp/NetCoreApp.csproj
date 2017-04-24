@@ -6,6 +6,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.Portable.Compatibility" Version="1.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\NetCoreLib\NetCoreLib.csproj" />
     <ProjectReference Include="..\NetFrameworkLib\NetFrameworkLib.csproj" />
     <ProjectReference Include="..\NetStandardCore\NetStandardCore.csproj" />
